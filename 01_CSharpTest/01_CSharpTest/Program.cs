@@ -7,7 +7,6 @@ namespace _CSharpTest
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello C Sharp !");
-            Console.WriteLine(" 我擦嘞 !");
 
             int a = 10;
             int b = 23;
@@ -16,6 +15,12 @@ namespace _CSharpTest
             int[] array = { 2, 256, 6543, 12 };
             result = sum(array);
             Console.WriteLine(result);
+
+
+            string name = "小桌子";
+            int age = 18;
+
+            Console.WriteLine("姓名: " + name + ";\n" + "年龄: " + age);
         }
 
         /// <summary>
@@ -43,6 +48,9 @@ namespace _CSharpTest
             }
             return result;
         }
+
+
+
 
     }
 }
