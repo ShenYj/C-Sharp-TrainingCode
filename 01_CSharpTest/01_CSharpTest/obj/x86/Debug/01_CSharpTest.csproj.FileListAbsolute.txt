@@ -3,3 +3,8 @@
 /Users/ecg/Desktop/C#练习/01_CSharpTest/01_CSharpTest/obj/x86/Debug/01_CSharpTest.csproj.CoreCompileInputs.cache
 /Users/ecg/Desktop/C#练习/01_CSharpTest/01_CSharpTest/obj/x86/Debug/01_CSharpTest.exe
 /Users/ecg/Desktop/C#练习/01_CSharpTest/01_CSharpTest/obj/x86/Debug/01_CSharpTest.pdb
+/Users/shenyj/Desktop/MyProject/C#/01_CSharpTest/01_CSharpTest/bin/Debug/01_CSharpTest.exe
+/Users/shenyj/Desktop/MyProject/C#/01_CSharpTest/01_CSharpTest/bin/Debug/01_CSharpTest.pdb
+/Users/shenyj/Desktop/MyProject/C#/01_CSharpTest/01_CSharpTest/obj/x86/Debug/01_CSharpTest.csproj.CoreCompileInputs.cache
+/Users/shenyj/Desktop/MyProject/C#/01_CSharpTest/01_CSharpTest/obj/x86/Debug/01_CSharpTest.exe
+/Users/shenyj/Desktop/MyProject/C#/01_CSharpTest/01_CSharpTest/obj/x86/Debug/01_CSharpTest.pdb
