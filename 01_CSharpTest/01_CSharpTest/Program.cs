@@ -22,9 +22,14 @@ namespace _CSharpTest
             // /b放在字符串的两边没有效果
             Console.WriteLine("\b今天天气好晴朗\b处处好风光\b");
 
-            string text = "今天天气后晴朗/r/n处处好风光";
+            string text = "今天天气后晴朗/n处处好风光";
             // /n 在Mac下可以, windows下需要使用/r/n
-            System.IO.File.WriteAllText(@"/Users/shenyj/Desktop/123.txt",text);
+            //System.IO.File.WriteAllText(@"/Users/shenyj/Desktop/123.txt",text);// 写入到文件
+            Console.WriteLine("------------------------");
+            Console.WriteLine(@"今天天气好晴朗
+                              处处好风光");
+            Console.WriteLine("今天天气好晴朗" +
+                              "处处好风光");
         }
 
 
