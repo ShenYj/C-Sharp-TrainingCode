@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_CSharpTest", "01_CSharpTest\01_CSharpTest.csproj", "{DFF636B0-0B37-4EB1-AD01-E9C923479A3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test02", "test02\test02.csproj", "{176B5AC7-FFFE-4153-AA82-A4DBEAF54C8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{DFF636B0-0B37-4EB1-AD01-E9C923479A3A}.Debug|x86.Build.0 = Debug|x86
 		{DFF636B0-0B37-4EB1-AD01-E9C923479A3A}.Release|x86.ActiveCfg = Release|x86
 		{DFF636B0-0B37-4EB1-AD01-E9C923479A3A}.Release|x86.Build.0 = Release|x86
+		{176B5AC7-FFFE-4153-AA82-A4DBEAF54C8C}.Debug|x86.ActiveCfg = Debug|x86
+		{176B5AC7-FFFE-4153-AA82-A4DBEAF54C8C}.Debug|x86.Build.0 = Debug|x86
+		{176B5AC7-FFFE-4153-AA82-A4DBEAF54C8C}.Release|x86.ActiveCfg = Release|x86
+		{176B5AC7-FFFE-4153-AA82-A4DBEAF54C8C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
