@@ -1,0 +1,6 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\01_CSharpTest\test02\obj\x86\Debug\test02.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\01_CSharpTest\test02\obj\x86\Debug\test02.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\01_CSharpTest\test02\bin\Debug\test02.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\01_CSharpTest\test02\bin\Debug\test02.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\01_CSharpTest\test02\obj\x86\Debug\test02.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\01_CSharpTest\test02\obj\x86\Debug\test02.pdb
