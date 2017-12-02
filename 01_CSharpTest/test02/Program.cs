@@ -10,10 +10,12 @@ namespace test02
 
             Person wangmazi = new Person();
 
-            wangmazi._name = "王麻子";
-            wangmazi._age = 25;
-            wangmazi._gender = '男';
+            //wangmazi._name = "王麻子";
+            //wangmazi._age = 25;
+            //wangmazi._gender = '男';
 
+            wangmazi.Name = "王麻子";
+            
             // 静态方法
             Person.descript();
 
