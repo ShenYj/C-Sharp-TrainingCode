@@ -14,10 +14,11 @@ namespace test02
             wangmazi._age = 25;
             wangmazi._gender = '男';
 
+            // 静态方法
             Person.descript();
-            
 
-            wangmazi.Eat();
+            // 实例方法
+            wangmazi.Eat(); 
             wangmazi.Drink();
 
             Console.ReadKey();
