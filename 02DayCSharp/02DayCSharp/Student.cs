@@ -28,6 +28,8 @@ namespace _02DayCSharp
         }
 
         // 析构函数
+        // Garbage Collection  
+        // 使用析构函数可以让类马上释放资源， 否则由GC自动完成释放
         ~Student()
         {
             Console.WriteLine("学生的析构函数");
