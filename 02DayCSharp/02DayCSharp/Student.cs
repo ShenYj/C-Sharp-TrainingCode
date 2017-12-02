@@ -27,6 +27,12 @@ namespace _02DayCSharp
 
         }
 
+        // 析构函数
+        ~Student()
+        {
+            Console.WriteLine("学生的析构函数");
+        }
+
         private string _name;
         private int _age;
         private double height;
