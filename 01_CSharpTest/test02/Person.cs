@@ -35,7 +35,14 @@ namespace test02
         public char Gender
         {
             set { _gender = value; }
-            get { return _gender; }
+            get
+            {
+                if (_gender != '男' && _gender != '女')
+                {
+                    return _gender = '男';
+                }
+                return _gender;
+            }
         }
 
 
