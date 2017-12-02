@@ -17,6 +17,15 @@ namespace _02DayCSharp
             this.Aage = age;
             this.Height = height;
         }
+        // 重载构造函数
+        public Student(string name, int age):this(name, age, 0.0)
+        {
+            
+        }
+        public Student(string name):this(name,0,0.0)
+        {
+
+        }
 
         private string _name;
         private int _age;
