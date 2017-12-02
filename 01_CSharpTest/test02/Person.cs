@@ -8,9 +8,9 @@ namespace test02
 {
     class Person
     {
-        string _name;
-        int _age;
-        char _gender;
+        private string _name;
+        private int _age;
+        private char _gender;
 
         // 属性
         public string Name
