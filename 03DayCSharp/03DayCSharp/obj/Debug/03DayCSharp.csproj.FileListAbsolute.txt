@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\03DayCSharp\03DayCSharp\bin\Debug\03DayCSharp.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\03DayCSharp\03DayCSharp\bin\Debug\03DayCSharp.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\03DayCSharp\03DayCSharp\bin\Debug\03DayCSharp.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\03DayCSharp\03DayCSharp\obj\Debug\03DayCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\03DayCSharp\03DayCSharp\obj\Debug\03DayCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\03DayCSharp\03DayCSharp\obj\Debug\03DayCSharp.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\03DayCSharp\03DayCSharp\obj\Debug\03DayCSharp.pdb
