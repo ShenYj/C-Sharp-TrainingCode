@@ -20,12 +20,29 @@ namespace _03DayCSharp
             Female,
             Male
         }
+        public struct Person
+        {
+            public string _name;
+            public int _age;
+            public Sex _sex;
+        }
 
         static void Main(string[] args)
         {
-            Demo7();
+            Demo8();
             
 
+        }
+
+        public static void Demo8()
+        {
+            // 结构体
+            Person person ;
+            person._name = "张安";
+            person._age = 18;
+            person._sex = Sex.Female;
+            Console.WriteLine("我叫{0}，年龄：{1}，性别：{2}",person._name,person._age,person._sex);
+            Console.ReadKey();
         }
         
         public static void Demo7()
