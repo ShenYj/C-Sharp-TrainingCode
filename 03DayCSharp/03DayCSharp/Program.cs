@@ -6,12 +6,43 @@ using System.Threading.Tasks;
 
 namespace _03DayCSharp
 {
+    // _03DayCSharp命名空间下都可以使用的枚举
+    public enum Sexs
+    {
+        男,
+        女
+    }
     class Program
     {
+        // Program类中定义一个枚举
+        public enum Sex
+        {
+            Female,
+            Male
+        }
+
         static void Main(string[] args)
         {
-            Demo6();
+            Demo7();
+            
+
         }
+        
+        public static void Demo7()
+        {
+            Sex sex = Sex.Female;
+
+            // 将一个字符串转换成枚举
+            Sexs sex1 = (Sexs)Enum.Parse(typeof(Sexs), "男");
+            Console.WriteLine(sex1);
+            Console.ReadKey();
+
+            // 枚举转字符串
+            string sex2 = sex.ToString();
+            Console.WriteLine(sex2);
+            Console.ReadKey();
+        }
+
 
         public static void Demo6()
         {
@@ -122,7 +153,8 @@ namespace _03DayCSharp
             {
                 // 大于60分钟
                 Console.WriteLine("大于60分钟");
-            }  else
+            }
+            else
             {
                 Console.WriteLine("小于等于60分钟");
             }
