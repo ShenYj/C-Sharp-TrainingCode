@@ -10,7 +10,80 @@ namespace _03DayCSharp
     {
         static void Main(string[] args)
         {
-            Demo3();
+            Demo6();
+        }
+
+        public static void Demo6()
+        {
+            // 产生随机数  1 ~ 100 
+            Random random = new Random();
+            int aRandomNumber = random.Next(0, 101);
+            Console.WriteLine(aRandomNumber);
+            Console.ReadKey();
+        }
+
+        public static void Demo5()
+        {
+            // 求质数
+            // 找出100以内的质数
+            for (int i = 2; i <= 100; i++)
+            {
+                bool flag = false;
+                for (int j = 2; j < i; j++)
+                {
+                    if (i % j == 0)
+                    {
+                        flag = true;
+                        break;
+                    }
+                }
+
+                if (!flag)
+                {
+                    Console.WriteLine(i);
+                }
+            }
+            Console.ReadKey();
+        }
+
+
+        public static void Demo4()
+        {
+
+            // TryParse() 
+            int number = 0;
+            bool b = int.TryParse("123a",out number);
+            Console.WriteLine(b);
+            Console.WriteLine(number);
+            Console.ReadKey();
+
+            // parase
+            //int number = int.Parse("123");
+            //Console.WriteLine("输入的数值是：{0}",number);
+            //Console.ReadKey();
+
+            
+
+            //Convert.ToInt32  内部调用了 int.Parse
+
+            //int numberOne = 0;
+            //bool flag = true;
+            //try
+            //{
+            //    numberOne = Convert.ToInt32(Console.ReadLine());
+            //}
+            //catch
+            //{
+            //    flag = false;
+            //    Console.WriteLine("输入的并非是数值类型");
+            //}
+
+            //if (flag)
+            //{
+            //    Console.WriteLine("输入的数值是： {0}",numberOne);
+            //}
+            //Console.ReadKey();
+
         }
 
         public static void Demo3()
@@ -18,16 +91,23 @@ namespace _03DayCSharp
             // 异常捕获
             Console.WriteLine("请输入一个数字");
             int number = 0;
+
+            bool flag = true;
             try
             {
                 number = Convert.ToInt32(Console.ReadLine());
             }
             catch
             {
+                flag = false;
                 Console.WriteLine("获取的数字内容格式错误！");
             }
 
-            Console.WriteLine("输入的数字是{0}",number);
+            if (flag)
+            {
+                Console.WriteLine("输入的数字是{0}",number);
+            }
+
             Console.ReadKey();
 
         }
