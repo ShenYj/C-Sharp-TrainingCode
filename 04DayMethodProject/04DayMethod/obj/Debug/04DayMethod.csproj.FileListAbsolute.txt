@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\04DayMethodProject\04DayMethod\bin\Debug\04DayMethod.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\04DayMethodProject\04DayMethod\bin\Debug\04DayMethod.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\04DayMethodProject\04DayMethod\bin\Debug\04DayMethod.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\04DayMethodProject\04DayMethod\obj\Debug\04DayMethod.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\04DayMethodProject\04DayMethod\obj\Debug\04DayMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\04DayMethodProject\04DayMethod\obj\Debug\04DayMethod.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\04DayMethodProject\04DayMethod\obj\Debug\04DayMethod.pdb
