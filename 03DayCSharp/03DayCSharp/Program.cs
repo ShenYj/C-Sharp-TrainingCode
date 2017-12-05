@@ -29,10 +29,47 @@ namespace _03DayCSharp
 
         static void Main(string[] args)
         {
-            Demo10();
+            Demo11();
             
         }
+        
+        /// <summary>
+        /// 冒泡排序
+        /// </summary>
+        public static void Demo11()
+        {
+            int[] array = new int[100];
+            Random random = new Random();
+            for (int i = 0; i < array.Length; i++)
+            {
+                int aRandomNumber = random.Next(1, 10000);
+                array[i] = aRandomNumber;
+            }
 
+            // 冒泡排序
+            int tempNumber = 0;
+            for (int i = 0; i < array.Length; i++)
+            {
+                for(int j = 0; j < array.Length - i - 1; j++)
+                {
+                    if (array[j] > array[j + 1])
+                    {
+                        tempNumber = array[j];
+                        array[j] = array[j + 1];
+                        array[j + 1] = tempNumber;
+                    }
+                }
+            }
+
+            Console.WriteLine("~~~~~~~~~排序后~~~~~~~~~");
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine("第{0:000}个元素的数据是:{1}",i,array[i]);
+            }
+            Console.WriteLine("~~~~~~~~~排序后~~~~~~~~~");
+            Console.ReadKey();
+        }
+        
         public static void Demo10()
         {
             // 数组中求最大值最小值
@@ -48,8 +85,8 @@ namespace _03DayCSharp
             Console.WriteLine("任意键获取数组中的最大数：");
             Console.ReadKey();
 
-            int maxNumber = 0;
-            int minNumber = 0;
+            int maxNumber = array[0];
+            int minNumber = array[0];
             double average = 0;
             int sum = 0;
             for (int i = 0; i < array.Length; i++)
@@ -57,8 +94,8 @@ namespace _03DayCSharp
                 // 获取最大数
                 if (array[i] > maxNumber) maxNumber = array[i];
                 // 获取最小数
-                if (i == 0) minNumber = array[i];
                 if (array[i] < minNumber) minNumber = array[i];
+                // 求和
                 sum += array[i];
             }
 
