@@ -29,9 +29,70 @@ namespace _03DayCSharp
 
         static void Main(string[] args)
         {
-            Demo8();
+            Demo10();
             
+        }
 
+        public static void Demo10()
+        {
+            // 数组中求最大值最小值
+            int[] array = new int[100];
+            Random random = new Random();
+            for (int i = 0; i < array.Length; i++)
+            {
+                int aRandomNumber = random.Next(1, 10000);
+                array[i] = aRandomNumber;
+            }
+
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+            Console.WriteLine("任意键获取数组中的最大数：");
+            Console.ReadKey();
+
+            int maxNumber = 0;
+            int minNumber = 0;
+            double average = 0;
+            int sum = 0;
+            for (int i = 0; i < array.Length; i++)
+            {
+                // 获取最大数
+                if (array[i] > maxNumber) maxNumber = array[i];
+                // 获取最小数
+                if (i == 0) minNumber = array[i];
+                if (array[i] < minNumber) minNumber = array[i];
+                sum += array[i];
+            }
+
+            average = sum * 1.0 / array.Length;
+
+            Console.WriteLine("最大数是: {0}",maxNumber);
+            Console.WriteLine("最小数是: {0}",minNumber);
+            Console.WriteLine("和是：{0}",sum);
+            Console.WriteLine("平均值是: {0}",average);
+            Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
+            for (int i = 0;i < array.Length;i++)
+            {
+                Console.WriteLine("数组元素：{0} {1}", array[i],i);
+            }
+            
+            Console.ReadKey();
+        }
+
+        public static void Demo9()
+        {
+            // 推荐方式
+            int[] array1 = new int[10];
+            int[] array2 = { 2, 4, 6, 9, 10, 19};
+            // 其他
+            int[] array3 = new int[3] { 3, 5, 6};// 元素个数要一致
+            int[] array4 = new int[] { 2, 5, 6, 12};
+            
+            for (int i = 0; i < 10; i++)
+            {
+                array1[i] = i;
+                Console.WriteLine(i);
+            }
+            Console.ReadKey();
         }
 
         public static void Demo8()
