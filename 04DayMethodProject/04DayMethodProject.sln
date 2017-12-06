@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04DayMethod", "04DayMethod\04DayMethod.csproj", "{95C39027-0508-4CDF-937D-29DB9BACA21F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "方法重载", "方法重载\方法重载.csproj", "{0A7905FF-D403-4206-9CE2-58ED71A828EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "方法的递归", "方法的递归\方法的递归.csproj", "{672EBCE7-6ED4-4DEB-969C-F3D1B081D6CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{95C39027-0508-4CDF-937D-29DB9BACA21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95C39027-0508-4CDF-937D-29DB9BACA21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95C39027-0508-4CDF-937D-29DB9BACA21F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7905FF-D403-4206-9CE2-58ED71A828EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7905FF-D403-4206-9CE2-58ED71A828EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7905FF-D403-4206-9CE2-58ED71A828EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7905FF-D403-4206-9CE2-58ED71A828EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672EBCE7-6ED4-4DEB-969C-F3D1B081D6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672EBCE7-6ED4-4DEB-969C-F3D1B081D6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672EBCE7-6ED4-4DEB-969C-F3D1B081D6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672EBCE7-6ED4-4DEB-969C-F3D1B081D6CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
