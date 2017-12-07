@@ -154,6 +154,7 @@ namespace Game
             else
             {
                 Console.WriteLine("游戏结束");
+                _PlayerPoint[currentPlayerIndex] = 99;
                 Console.WriteLine("胜利者： {0}",_playerNames[currentPlayerIndex]);
                 Console.ReadKey();
             }
