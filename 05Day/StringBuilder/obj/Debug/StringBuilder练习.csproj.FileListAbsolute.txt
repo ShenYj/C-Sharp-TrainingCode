@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\StringBuilder\obj\Debug\StringBuilder练习.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\StringBuilder\obj\Debug\StringBuilder练习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\StringBuilder\obj\Debug\StringBuilder.pdb

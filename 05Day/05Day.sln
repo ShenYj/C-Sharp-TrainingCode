@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "被引用的项目", "被�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{EDFC9E0D-0922-4647-ABD5-692992FA2336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_值类型和引用类型", "_值类型和引用类型\_值类型和引用类型.csproj", "{8794842B-C199-46D9-A104-C1EE098D1962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder练习", "StringBuilder\StringBuilder练习.csproj", "{384CC9BB-775A-4F28-81A3-60E4E85197F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{EDFC9E0D-0922-4647-ABD5-692992FA2336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDFC9E0D-0922-4647-ABD5-692992FA2336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDFC9E0D-0922-4647-ABD5-692992FA2336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8794842B-C199-46D9-A104-C1EE098D1962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8794842B-C199-46D9-A104-C1EE098D1962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8794842B-C199-46D9-A104-C1EE098D1962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8794842B-C199-46D9-A104-C1EE098D1962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384CC9BB-775A-4F28-81A3-60E4E85197F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384CC9BB-775A-4F28-81A3-60E4E85197F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384CC9BB-775A-4F28-81A3-60E4E85197F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384CC9BB-775A-4F28-81A3-60E4E85197F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
