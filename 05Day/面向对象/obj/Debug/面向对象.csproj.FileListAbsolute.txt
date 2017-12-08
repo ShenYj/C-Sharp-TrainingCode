@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\面向对象\bin\Debug\面向对象.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\面向对象\bin\Debug\面向对象.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\面向对象\bin\Debug\面向对象.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\面向对象\obj\Debug\面向对象.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\面向对象\obj\Debug\面向对象.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\面向对象\obj\Debug\面向对象.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\05Day\面向对象\obj\Debug\面向对象.pdb
