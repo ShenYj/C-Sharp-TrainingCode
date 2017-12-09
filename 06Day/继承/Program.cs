@@ -33,6 +33,8 @@ namespace 继承
             Teacher xiaoLiu = new Teacher("小刘", 26, Person.Gender.Female);
             Console.WriteLine("实习教师{0}今年{1}岁，性别{2}",xiaoLiu.Name, xiaoLiu.Age, xiaoLiu.Sex);
 
+
+            // 关键字new隐藏父类成员
             xiaoDu.SayHello();
 
             Console.ReadKey();
@@ -148,7 +150,8 @@ namespace 继承
             this.Id = id;
         }
 
-        public void SayHello()
+        // new关键字 隐藏父类成员
+        public new void SayHello()
         {
             Console.WriteLine("大家好， 我是学生类");
         }

@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\里氏转换语法和练习\bin\Debug\里氏转换语法和练习.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\里氏转换语法和练习\bin\Debug\里氏转换语法和练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\里氏转换语法和练习\bin\Debug\里氏转换语法和练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\里氏转换语法和练习\obj\Debug\里氏转换语法和练习.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\里氏转换语法和练习\obj\Debug\里氏转换语法和练习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\里氏转换语法和练习\obj\Debug\里氏转换语法和练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\里氏转换语法和练习\obj\Debug\里氏转换语法和练习.pdb
