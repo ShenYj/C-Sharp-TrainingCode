@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\继承\bin\Debug\继承.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\继承\bin\Debug\继承.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\继承\bin\Debug\继承.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\继承\obj\Debug\继承.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\继承\obj\Debug\继承.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\继承\obj\Debug\继承.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\继承\obj\Debug\继承.pdb
