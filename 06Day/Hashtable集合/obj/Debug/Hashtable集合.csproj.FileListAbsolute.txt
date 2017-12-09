@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Hashtable集合\bin\Debug\Hashtable集合.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Hashtable集合\bin\Debug\Hashtable集合.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Hashtable集合\bin\Debug\Hashtable集合.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Hashtable集合\obj\Debug\Hashtable集合.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Hashtable集合\obj\Debug\Hashtable集合.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Hashtable集合\obj\Debug\Hashtable集合.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Hashtable集合\obj\Debug\Hashtable集合.csprojResolveAssemblyReference.cache

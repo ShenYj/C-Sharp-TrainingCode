@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "里氏转换语法和练习
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList集合", "ArrayList集合\ArrayList集合.csproj", "{D00775A4-8147-42BB-AC88-DDEDAEF90E2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtable集合", "Hashtable集合\Hashtable集合.csproj", "{6088E65D-03CD-48A4-9E1B-2956CD2EF911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D00775A4-8147-42BB-AC88-DDEDAEF90E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D00775A4-8147-42BB-AC88-DDEDAEF90E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D00775A4-8147-42BB-AC88-DDEDAEF90E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6088E65D-03CD-48A4-9E1B-2956CD2EF911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6088E65D-03CD-48A4-9E1B-2956CD2EF911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6088E65D-03CD-48A4-9E1B-2956CD2EF911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6088E65D-03CD-48A4-9E1B-2956CD2EF911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
