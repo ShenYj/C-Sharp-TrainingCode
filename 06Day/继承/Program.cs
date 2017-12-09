@@ -14,6 +14,8 @@ namespace 继承
             // 1. 继承具有单根性 ： 一个子类只有一个父类
             // 2. 继承具有传递性 ： 
 
+            // 如果某个类没有继承任何类， 则继承自object类
+
 
             // 如果在父类中重写了构造函数， 子类找不到无参构造函数就会报错， 解决方法
             // 1. 在父类中重新写一个无参的构造函数
@@ -30,6 +32,8 @@ namespace 继承
 
             Teacher xiaoLiu = new Teacher("小刘", 26, Person.Gender.Female);
             Console.WriteLine("实习教师{0}今年{1}岁，性别{2}",xiaoLiu.Name, xiaoLiu.Age, xiaoLiu.Sex);
+
+            xiaoDu.SayHello();
 
             Console.ReadKey();
         }
@@ -55,6 +59,11 @@ namespace 继承
             this.Name = name;
             this.Age = age;
             this.Sex = sex;
+        }
+
+        public void SayHello()
+        {
+            Console.WriteLine("大家好， 我是人类");
         }
 
         // 避免子类报错方式一
@@ -137,6 +146,11 @@ namespace 继承
         public Student(string name, int age, Gender sex, int id) : base(name, age, sex)
         {
             this.Id = id;
+        }
+
+        public void SayHello()
+        {
+            Console.WriteLine("大家好， 我是学生类");
         }
 
         private int _id;
