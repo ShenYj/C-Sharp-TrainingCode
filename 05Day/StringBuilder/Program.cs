@@ -4,13 +4,95 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
-
+using System.IO;
 
 namespace StringBuilder练习
 {
     class Program
     {
         static void Main(string[] args)
+        {
+
+            Training3();
+
+            Console.ReadKey();
+            
+        }
+
+        // 字符串练习题 (截取)
+        public static void Training3()
+        {
+            string email = "abc@163.com";
+            int at = email.IndexOf('@');
+            string domain = email.Substring(at + 1);
+            string name = email.Substring(0, at);
+            Console.WriteLine(domain);
+            Console.WriteLine(name);
+        }
+
+        // 字符串练习题 （逐个单词）
+        public static void Training2()
+        {
+            string str = "Hello C Sharp";
+
+            // 方式1
+            string[] strArray = str.Split(' ');
+            StringBuilder sb = new StringBuilder();
+            
+            for(int i = strArray.Length - 1; i >= 0 ; i--)
+            {
+                sb.Append(strArray[i]);
+                sb.Append(" ");
+            }
+            Console.WriteLine(sb);
+
+            // 方式2
+            char[] charArray = { ' '};
+            string[] strArray1 = str.Split(charArray, StringSplitOptions.RemoveEmptyEntries);
+
+            for(int i = 0; i < strArray1.Length / 2; i++)
+            {
+                string temp = strArray1[i];
+                strArray1[i] = strArray1[strArray1.Length - i- 1];
+                strArray1[strArray1.Length - i - 1] = temp;
+            }
+            for(int i = 0; i < strArray1.Length; i++)
+            {
+                Console.Write(strArray1[i] + " ");
+            }
+            Console.WriteLine();
+
+            // 方式3
+            string newString = string.Join(" ", strArray1);
+            Console.WriteLine(newString);
+        }
+
+        // 字符串练习题 （逐个字符倒叙）
+        public static void Training1()
+        {
+            string str = "abcdef";
+            for (int i = str.Length - 1; i >= 0; i--)
+            {
+                Console.WriteLine(str[i]);
+            }
+        }
+
+        // 读取文件练习
+        public static void ReadFileTest()
+        {
+            // 练习
+            string path = @"C:\Users\Ryan Shen\Desktop\蓝牙通信升级测试.txt";
+            // 读取文件
+            string[] content = File.ReadAllLines(path, Encoding.Default);
+
+            for (int i = 0; i < content.Length; i++)
+            {
+                Console.WriteLine(content[i]);
+            }
+        }
+
+        // 字符串的方法练习
+        public static void Test3()
         {
             // StringBuilder 练习
             //Test1();  18s左右， 原因：频繁的开辟内存空间
@@ -34,8 +116,8 @@ namespace StringBuilder练习
             Console.WriteLine(s);
             // 将不需要的字符换成空
             char[] chs = { ' ', '_', '=', '+', ',' };
-            // 加上后面枚举参数， 分割成多个字符串
-            string[] s1 = s.Split(chs,StringSplitOptions.RemoveEmptyEntries);
+            // 加上后面枚举参数， 分割成多个字符
+            string[] s1 = s.Split(chs, StringSplitOptions.RemoveEmptyEntries);
 
             for (int i = 0; i < s1.Length; i++)
             {
@@ -92,10 +174,6 @@ namespace StringBuilder练习
             //string newStr = string9.Replace("小明", "小杜");
             string newStr = string9.Replace("小垃圾", "小杜");
             Console.WriteLine(newStr);
-
-
-            Console.ReadKey();
-            
         }
 
         public static void Test2()
