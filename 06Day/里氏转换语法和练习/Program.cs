@@ -21,11 +21,11 @@ namespace 里氏转换语法和练习
             // 2）如果父类中装的是子类对象， 那么可以将这个父类强转为子类对象
             //Student newStudent = (Student)newPerson;
 
-
-
             // 1. is: 表示类型转换， 如果能够转换成功， 则返回一个true， 否则返回一个false
             // 2. as: 表示类型转换， 如果能够转换则返回对应的对象， 否则返回一个null
 
+            // 补充： protect关键字， 在当前类无法访问， 在子类中可以访问
+            
             Person newPerson = student;
             // 1. is使用
             if (newPerson is Student)
