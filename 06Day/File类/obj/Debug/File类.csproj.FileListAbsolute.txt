@@ -1,0 +1,6 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\File类\bin\Debug\File类.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\File类\bin\Debug\File类.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\File类\bin\Debug\File类.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\File类\obj\Debug\File类.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\File类\obj\Debug\File类.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\File类\obj\Debug\File类.pdb

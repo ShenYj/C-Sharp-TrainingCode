@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_简繁转换\obj\Debug\_简繁转换.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_简繁转换\obj\Debug\_简繁转换.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_简繁转换\bin\Debug\_简繁转换.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_简繁转换\bin\Debug\_简繁转换.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_简繁转换\bin\Debug\_简繁转换.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_简繁转换\obj\Debug\_简繁转换.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_简繁转换\obj\Debug\_简繁转换.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_Path类\bin\Debug\_Path类.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_Path类\bin\Debug\_Path类.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_Path类\bin\Debug\_Path类.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_Path类\obj\Debug\_Path类.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_Path类\obj\Debug\_Path类.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_Path类\obj\Debug\_Path类.pdb
