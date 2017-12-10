@@ -33,6 +33,7 @@ namespace _FileStream文件流
 
             // 写入文件
             string destinationPath = @"c:\users\ryan shen\desktop\efg.txt";
+            // 追加写入文件
             using (StreamWriter stWriter = new StreamWriter(destinationPath, true , Encoding.UTF8))
             {
                 stWriter.Write("aklsjdlkfjsa;lkdf");

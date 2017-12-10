@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_抽象类\bin\Debug\_抽象类.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_抽象类\bin\Debug\_抽象类.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_抽象类\bin\Debug\_抽象类.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_抽象类\obj\Debug\_抽象类.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_抽象类\obj\Debug\_抽象类.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_抽象类\obj\Debug\_抽象类.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_抽象类\obj\Debug\_抽象类.pdb
