@@ -15,8 +15,8 @@ namespace _抽象类
         // 通过抽象类实现多态
         static void Main(string[] args)
         {
-            Dog dog = new Dog();
-            Cat cat = new Cat();
+            Animal dog = new Dog();
+            Animal cat = new Cat();
 
             dog.Bark();
             cat.Bark();
