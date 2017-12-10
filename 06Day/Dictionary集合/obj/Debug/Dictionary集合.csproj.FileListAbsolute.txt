@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Dictionary集合\bin\Debug\Dictionary集合.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Dictionary集合\bin\Debug\Dictionary集合.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Dictionary集合\bin\Debug\Dictionary集合.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Dictionary集合\obj\Debug\Dictionary集合.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Dictionary集合\obj\Debug\Dictionary集合.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Dictionary集合\obj\Debug\Dictionary集合.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\Dictionary集合\obj\Debug\Dictionary集合.pdb

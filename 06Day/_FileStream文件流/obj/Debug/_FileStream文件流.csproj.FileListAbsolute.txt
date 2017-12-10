@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_FileStream文件流\bin\Debug\_FileStream文件流.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_FileStream文件流\bin\Debug\_FileStream文件流.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_FileStream文件流\bin\Debug\_FileStream文件流.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_FileStream文件流\obj\Debug\_FileStream文件流.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_FileStream文件流\obj\Debug\_FileStream文件流.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_FileStream文件流\obj\Debug\_FileStream文件流.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_FileStream文件流\obj\Debug\_FileStream文件流.pdb

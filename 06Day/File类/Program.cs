@@ -23,7 +23,7 @@ namespace File类
             //File.Copy(@"C:\Users\Ryan Shen\Desktop\abc.txt", @"C:\Users\Ryan Shen\Desktop\bcd.txt");
 
             // 读取文件
-            string path = @"C:\Users\Ryan Shen\Desktop\蓝牙通信升级测试.txt";
+            string path = @"C:\Users\Ryan Shen\Desktop\abc.txt";
 
             // 方式一 （读取文本文件， 返回数组， 可以精确到每一行进行操作）
             string[] content1 = File.ReadAllLines(path, Encoding.Default);
@@ -44,7 +44,7 @@ namespace File类
             //}
 
             // 写文件
-            string writePath = @"C:\Users\Ryan Shen\Desktop\abc.txt";
+            string writePath = @"C:\Users\Ryan Shen\Desktop\a.txt";
             //File.WriteAllLines(writePath, content1);
             File.WriteAllLines(writePath, content1, Encoding.Default);
 

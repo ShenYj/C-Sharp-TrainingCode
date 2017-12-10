@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_泛型\obj\Debug\_泛型.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_泛型\obj\Debug\_泛型.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_泛型\bin\Debug\_泛型.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_泛型\bin\Debug\_泛型.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_泛型\bin\Debug\_泛型.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_泛型\obj\Debug\_泛型.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\06Day\_泛型\obj\Debug\_泛型.pdb

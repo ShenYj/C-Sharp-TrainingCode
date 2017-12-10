@@ -13,7 +13,6 @@ namespace ArrayList集合
         {
             // ArrayList 集合
             // 1.长度可以任意改变， 类型随便
-            // 2.
             ArrayListTest3();
             
             Console.ReadKey();
