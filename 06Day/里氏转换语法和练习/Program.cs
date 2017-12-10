@@ -15,6 +15,8 @@ namespace 里氏转换语法和练习
             Student student = new Student();
             Teacher teacher = new Teacher();
 
+            
+
             // 1) 子类可以复制给父类 
             //Person newPerson = student;
 
@@ -24,14 +26,16 @@ namespace 里氏转换语法和练习
             // 1. is: 表示类型转换， 如果能够转换成功， 则返回一个true， 否则返回一个false
             // 2. as: 表示类型转换， 如果能够转换则返回对应的对象， 否则返回一个null
 
-            // 补充： protect关键字， 在当前类无法访问， 在子类中可以访问
-            
+            // 补充： protect关键字， 可以被1.该类中的函数、2.子类的函数、以及3.其友元函数访问。 但不能被该类的对象访问
+
+
             Person newPerson = student;
             // 1. is使用
             if (newPerson is Student)
             {
                 Student newStudent = (Student)newPerson;
                 Console.WriteLine("转换成功 is");
+                
             }
             else
             {
@@ -56,6 +60,7 @@ namespace 里氏转换语法和练习
     // 基类: 人类
     public class Person
     {
+        protected int abc;
         public void PersonSayHello()
         {
             Console.WriteLine("我是父类");
@@ -67,6 +72,7 @@ namespace 里氏转换语法和练习
         public void TeacherSayHello()
         {
             Console.WriteLine("我是教师类");
+            
         }
     }
     // 派生类： 学生类

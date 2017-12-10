@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_抽象类", "_抽象类\_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_虚拟方法", "_虚拟方法\_虚拟方法.csproj", "{52157B60-49D8-41DB-B010-EC1F4374DDB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_多态练习", "_多态练习\_多态练习.csproj", "{9FA13991-696A-4859-8F2F-4870EC3C605F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{52157B60-49D8-41DB-B010-EC1F4374DDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52157B60-49D8-41DB-B010-EC1F4374DDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52157B60-49D8-41DB-B010-EC1F4374DDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FA13991-696A-4859-8F2F-4870EC3C605F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA13991-696A-4859-8F2F-4870EC3C605F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA13991-696A-4859-8F2F-4870EC3C605F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA13991-696A-4859-8F2F-4870EC3C605F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

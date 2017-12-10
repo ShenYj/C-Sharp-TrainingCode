@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_多态练习\bin\Debug\_多态练习.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_多态练习\bin\Debug\_多态练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_多态练习\bin\Debug\_多态练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_多态练习\obj\Debug\_多态练习.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_多态练习\obj\Debug\_多态练习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_多态练习\obj\Debug\_多态练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_多态练习\obj\Debug\_多态练习.pdb
