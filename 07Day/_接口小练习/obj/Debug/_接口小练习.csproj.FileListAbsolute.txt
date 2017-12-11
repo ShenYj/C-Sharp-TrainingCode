@@ -1,0 +1,6 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口小练习\bin\Debug\_接口小练习.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口小练习\bin\Debug\_接口小练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口小练习\bin\Debug\_接口小练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口小练习\obj\Debug\_接口小练习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口小练习\obj\Debug\_接口小练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口小练习\obj\Debug\_接口小练习.pdb

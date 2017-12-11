@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口\bin\Debug\_接口.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口\bin\Debug\_接口.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口\bin\Debug\_接口.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口\obj\Debug\_接口.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口\obj\Debug\_接口.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口\obj\Debug\_接口.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\07Day\_接口\obj\Debug\_接口.csprojResolveAssemblyReference.cache
