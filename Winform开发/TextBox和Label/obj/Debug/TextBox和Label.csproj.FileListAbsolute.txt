@@ -1,0 +1,9 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\bin\Debug\TextBox和Label.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\bin\Debug\TextBox和Label.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\bin\Debug\TextBox和Label.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\obj\Debug\TextBox和Label.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\obj\Debug\TextBox和Label.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\obj\Debug\TextBox和Label.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\obj\Debug\TextBox和Label.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\obj\Debug\TextBox和Label.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\TextBox和Label\obj\Debug\TextBox和Label.pdb
