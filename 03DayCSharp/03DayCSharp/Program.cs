@@ -29,7 +29,7 @@ namespace _03DayCSharp
 
         static void Main(string[] args)
         {
-            Demo11();
+            Demo4();
             
         }
         

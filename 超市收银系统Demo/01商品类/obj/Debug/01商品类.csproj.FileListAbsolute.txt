@@ -1,0 +1,6 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\超市收银系统Demo\01商品类\obj\Debug\01商品类.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\超市收银系统Demo\01商品类\bin\Debug\01商品类.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\超市收银系统Demo\01商品类\bin\Debug\01商品类.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\超市收银系统Demo\01商品类\bin\Debug\01商品类.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\超市收银系统Demo\01商品类\obj\Debug\01商品类.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\超市收银系统Demo\01商品类\obj\Debug\01商品类.pdb
