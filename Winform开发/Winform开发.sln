@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_跑马灯", "_跑马灯\_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDI窗体开发", "MDI窗体开发\MDI窗体开发.csproj", "{7B2B0393-C736-419F-8763-374F233E97F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBox练习", "PictureBox练习\PictureBox练习.csproj", "{1429B707-7A76-46FC-A93E-E5C6F8EDBFBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7B2B0393-C736-419F-8763-374F233E97F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B2B0393-C736-419F-8763-374F233E97F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B2B0393-C736-419F-8763-374F233E97F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1429B707-7A76-46FC-A93E-E5C6F8EDBFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1429B707-7A76-46FC-A93E-E5C6F8EDBFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1429B707-7A76-46FC-A93E-E5C6F8EDBFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1429B707-7A76-46FC-A93E-E5C6F8EDBFBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

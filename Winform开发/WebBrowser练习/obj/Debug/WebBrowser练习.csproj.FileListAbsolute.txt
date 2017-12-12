@@ -7,3 +7,4 @@ C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\WebBrowser练习\obj
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\WebBrowser练习\obj\Debug\WebBrowser练习.csproj.CoreCompileInputs.cache
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\WebBrowser练习\obj\Debug\WebBrowser练习.exe
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\WebBrowser练习\obj\Debug\WebBrowser练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\WebBrowser练习\obj\Debug\WebBrowser练习.csprojResolveAssemblyReference.cache
