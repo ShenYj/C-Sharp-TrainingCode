@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\bin\Debug\MDI窗体开发.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\bin\Debug\MDI窗体开发.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\bin\Debug\MDI窗体开发.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\obj\Debug\MDI窗体开发.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\obj\Debug\MDI窗体开发.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\obj\Debug\MDI窗体开发.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\obj\Debug\MDI窗体开发.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\obj\Debug\MDI窗体开发.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\obj\Debug\MDI窗体开发.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\MDI窗体开发\obj\Debug\MDI窗体开发.pdb

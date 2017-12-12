@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowser练习", "WebBrow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_跑马灯", "_跑马灯\_跑马灯.csproj", "{FA460E4F-6637-4C98-808D-CDB77D5FADE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDI窗体开发", "MDI窗体开发\MDI窗体开发.csproj", "{7B2B0393-C736-419F-8763-374F233E97F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FA460E4F-6637-4C98-808D-CDB77D5FADE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA460E4F-6637-4C98-808D-CDB77D5FADE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA460E4F-6637-4C98-808D-CDB77D5FADE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2B0393-C736-419F-8763-374F233E97F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2B0393-C736-419F-8763-374F233E97F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2B0393-C736-419F-8763-374F233E97F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2B0393-C736-419F-8763-374F233E97F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
