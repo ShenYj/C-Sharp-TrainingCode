@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\bin\Debug\ComboBox控件.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\bin\Debug\ComboBox控件.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\bin\Debug\ComboBox控件.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\obj\Debug\ComboBox控件.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\obj\Debug\ComboBox控件.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\obj\Debug\ComboBox控件.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\obj\Debug\ComboBox控件.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\obj\Debug\ComboBox控件.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\obj\Debug\ComboBox控件.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ComboBox控件\obj\Debug\ComboBox控件.pdb
