@@ -42,8 +42,9 @@ namespace ListBox控件
         private void listBox1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             string fileFullPath = fileFullPathList[lb1.SelectedIndex];
-            player.SoundLocation = fileFullPath;
-            player.Play();
+            //player.SoundLocation = fileFullPath;
+            //player.Play();
+            // .mp3格式不识别
         }
     }
 }

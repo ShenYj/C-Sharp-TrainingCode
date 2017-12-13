@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\bin\Debug\练习.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\bin\Debug\练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\bin\Debug\练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\obj\Debug\练习.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\obj\Debug\练习.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\obj\Debug\练习.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\obj\Debug\练习.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\obj\Debug\练习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\obj\Debug\练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\练习\obj\Debug\练习.pdb

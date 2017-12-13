@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBox控件", "ComboBox�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox控件", "ListBox控件\ListBox控件.csproj", "{2A5302BD-CEBF-4A47-BB54-47701A629B53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习", "练习\练习.csproj", "{130B40E3-09F1-4292-B7C5-7221681E2B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_打开文件夹对话框", "_打开文件夹对话框\_打开文件夹对话框.csproj", "{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{2A5302BD-CEBF-4A47-BB54-47701A629B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A5302BD-CEBF-4A47-BB54-47701A629B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A5302BD-CEBF-4A47-BB54-47701A629B53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130B40E3-09F1-4292-B7C5-7221681E2B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130B40E3-09F1-4292-B7C5-7221681E2B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130B40E3-09F1-4292-B7C5-7221681E2B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130B40E3-09F1-4292-B7C5-7221681E2B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
