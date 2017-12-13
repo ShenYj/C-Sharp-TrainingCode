@@ -30,18 +30,6 @@ namespace _打开文件夹对话框
 
             // 获取文件路径
             string[] fileNames = fileDialog.FileNames;
-
-            for (int i = 0; i < fileNames.Length; i++)
-            {
-                using (FileStream readStream = new FileStream(fileNames[i], FileMode.OpenOrCreate, FileAccess.Read))
-                {
-                    byte[] buffer = new byte[1024 * 1024];
-                    int length = readStream.Read(buffer, 0, buffer.Length);
-                    textBox1.Text = Encoding.Default.GetString(buffer, 0, length);
-                }
-            }
-
-
             try
             {
                 for (int i = 0; i < fileNames.Length; i++)

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习", "练习\练习.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_打开文件夹对话框", "_打开文件夹对话框\_打开文件夹对话框.csproj", "{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_保存文件对话框", "_保存文件对话框\_保存文件对话框.csproj", "{0868F971-1DCC-484F-B52A-5C3F7C0E2812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{140F2BE6-DA07-448B-9CDB-A455B14FD8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0868F971-1DCC-484F-B52A-5C3F7C0E2812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0868F971-1DCC-484F-B52A-5C3F7C0E2812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0868F971-1DCC-484F-B52A-5C3F7C0E2812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0868F971-1DCC-484F-B52A-5C3F7C0E2812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
