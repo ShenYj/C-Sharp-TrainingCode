@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_字体和颜色对话框",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_记事本应用程序", "_记事本应用程序\_记事本应用程序.csproj", "{911F560A-C249-4A33-94D4-33F1DC91DC1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_进程", "_进程\_进程.csproj", "{F02BD069-310A-4249-8149-2F2F9DCC54A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_线程", "_线程\_线程.csproj", "{A604DA15-43E6-4150-A1C2-64FA04E1FBBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{911F560A-C249-4A33-94D4-33F1DC91DC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{911F560A-C249-4A33-94D4-33F1DC91DC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{911F560A-C249-4A33-94D4-33F1DC91DC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02BD069-310A-4249-8149-2F2F9DCC54A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02BD069-310A-4249-8149-2F2F9DCC54A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02BD069-310A-4249-8149-2F2F9DCC54A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02BD069-310A-4249-8149-2F2F9DCC54A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A604DA15-43E6-4150-A1C2-64FA04E1FBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A604DA15-43E6-4150-A1C2-64FA04E1FBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A604DA15-43E6-4150-A1C2-64FA04E1FBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A604DA15-43E6-4150-A1C2-64FA04E1FBBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

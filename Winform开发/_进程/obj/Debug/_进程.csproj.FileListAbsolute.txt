@@ -1,0 +1,9 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\obj\Debug\_进程.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\obj\Debug\_进程.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\obj\Debug\_进程.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\obj\Debug\_进程.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\bin\Debug\_进程.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\bin\Debug\_进程.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\bin\Debug\_进程.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\obj\Debug\_进程.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_进程\obj\Debug\_进程.pdb

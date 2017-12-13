@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\bin\Debug\_线程.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\bin\Debug\_线程.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\bin\Debug\_线程.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\obj\Debug\_线程.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\obj\Debug\_线程.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\obj\Debug\_线程.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\obj\Debug\_线程.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\obj\Debug\_线程.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\obj\Debug\_线程.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_线程\obj\Debug\_线程.csprojResolveAssemblyReference.cache
