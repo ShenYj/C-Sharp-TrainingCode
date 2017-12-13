@@ -1,0 +1,9 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\bin\Debug\_字体和颜色对话框.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\bin\Debug\_字体和颜色对话框.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\bin\Debug\_字体和颜色对话框.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\obj\Debug\_字体和颜色对话框.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\obj\Debug\_字体和颜色对话框.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\obj\Debug\_字体和颜色对话框.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\obj\Debug\_字体和颜色对话框.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\obj\Debug\_字体和颜色对话框.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_字体和颜色对话框\obj\Debug\_字体和颜色对话框.pdb
