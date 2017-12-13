@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\bin\Debug\_摇奖机.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\bin\Debug\_摇奖机.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\bin\Debug\_摇奖机.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\obj\Debug\_摇奖机.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\obj\Debug\_摇奖机.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\obj\Debug\_摇奖机.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\obj\Debug\_摇奖机.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\obj\Debug\_摇奖机.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\obj\Debug\_摇奖机.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_摇奖机\obj\Debug\_摇奖机.pdb

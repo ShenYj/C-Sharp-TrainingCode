@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\bin\Debug\_音乐播放器.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\bin\Debug\_音乐播放器.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\bin\Debug\_音乐播放器.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\obj\Debug\_音乐播放器.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\obj\Debug\_音乐播放器.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\obj\Debug\_音乐播放器.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\obj\Debug\_音乐播放器.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\obj\Debug\_音乐播放器.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\obj\Debug\_音乐播放器.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_音乐播放器\obj\Debug\_音乐播放器.pdb
