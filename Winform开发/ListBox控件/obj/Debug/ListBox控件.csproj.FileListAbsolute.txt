@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\bin\Debug\ListBox控件.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\bin\Debug\ListBox控件.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\bin\Debug\ListBox控件.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\obj\Debug\ListBox控件.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\obj\Debug\ListBox控件.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\obj\Debug\ListBox控件.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\obj\Debug\ListBox控件.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\obj\Debug\ListBox控件.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\obj\Debug\ListBox控件.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\ListBox控件\obj\Debug\ListBox控件.csprojResolveAssemblyReference.cache
