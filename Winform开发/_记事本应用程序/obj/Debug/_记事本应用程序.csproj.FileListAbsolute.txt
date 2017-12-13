@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\bin\Debug\_记事本应用程序.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\bin\Debug\_记事本应用程序.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\bin\Debug\_记事本应用程序.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\obj\Debug\_记事本应用程序.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\obj\Debug\_记事本应用程序.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\obj\Debug\_记事本应用程序.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\obj\Debug\_记事本应用程序.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\obj\Debug\_记事本应用程序.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\obj\Debug\_记事本应用程序.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Winform开发\_记事本应用程序\obj\Debug\_记事本应用程序.csprojResolveAssemblyReference.cache
