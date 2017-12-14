@@ -40,6 +40,9 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.btnSelectFile = new System.Windows.Forms.Button();
+            this.btnSendFile = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnWatch
@@ -100,7 +103,7 @@
             this.tbSend.Location = new System.Drawing.Point(24, 218);
             this.tbSend.Multiline = true;
             this.tbSend.Name = "tbSend";
-            this.tbSend.Size = new System.Drawing.Size(276, 29);
+            this.tbSend.Size = new System.Drawing.Size(255, 29);
             this.tbSend.TabIndex = 6;
             // 
             // label1
@@ -114,7 +117,7 @@
             // 
             // btnSend
             // 
-            this.btnSend.Location = new System.Drawing.Point(329, 224);
+            this.btnSend.Location = new System.Drawing.Point(300, 225);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(75, 23);
             this.btnSend.TabIndex = 8;
@@ -149,11 +152,44 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // btnSelectFile
+            // 
+            this.btnSelectFile.Location = new System.Drawing.Point(300, 195);
+            this.btnSelectFile.Name = "btnSelectFile";
+            this.btnSelectFile.Size = new System.Drawing.Size(42, 23);
+            this.btnSelectFile.TabIndex = 12;
+            this.btnSelectFile.Text = "选择";
+            this.btnSelectFile.UseVisualStyleBackColor = true;
+            this.btnSelectFile.Click += new System.EventHandler(this.btnSelectFile_Click);
+            // 
+            // btnSendFile
+            // 
+            this.btnSendFile.Location = new System.Drawing.Point(348, 195);
+            this.btnSendFile.Name = "btnSendFile";
+            this.btnSendFile.Size = new System.Drawing.Size(75, 23);
+            this.btnSendFile.TabIndex = 13;
+            this.btnSendFile.Text = "发送文件";
+            this.btnSendFile.UseVisualStyleBackColor = true;
+            this.btnSendFile.Click += new System.EventHandler(this.btnSendFile_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(382, 224);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(41, 23);
+            this.button2.TabIndex = 14;
+            this.button2.Text = "震动";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(434, 262);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.btnSendFile);
+            this.Controls.Add(this.btnSelectFile);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.comboBox1);
@@ -191,6 +227,9 @@
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnSelectFile;
+        private System.Windows.Forms.Button btnSendFile;
+        private System.Windows.Forms.Button button2;
     }
 }
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Sockets;
@@ -54,13 +55,16 @@ namespace _Socket客户端
 
         private void btnSend_Click(object sender, EventArgs e)
         {
-            string content = tbSend.Text;
-            byte[] buffer = Encoding.Default.GetBytes(content);
+            byte[] buffer = Encoding.Default.GetBytes(tbSend.Text);
+            List<byte> bufferList = new List<byte>();
+            bufferList.Add(0);
+            bufferList.AddRange(buffer);
+            byte[] bytes = bufferList.ToArray();
 
             try
             {
-                int result = socketSend.Send(buffer, 0, buffer.Length, SocketFlags.None);
-                if (result == buffer.Length)
+                int result = socketSend.Send(bytes, 0, bytes.Length, SocketFlags.None);
+                if (result == bytes.Length)
                 {
                     Console.WriteLine("发送成功");
                     tbSend.Clear();
@@ -86,8 +90,44 @@ namespace _Socket客户端
                     int length = socketSend.Receive(buffer);
                     if (length == 0) break;
                     // 将接收到的数据转成字符串
-                    string content = Encoding.Default.GetString(buffer, 0, length);
-                    ShowMsg(socketSend.RemoteEndPoint + ":" + content);
+
+                    if (buffer[0] == 0)
+                    {
+                        // 文字信息
+                        string content = Encoding.Default.GetString(buffer, 1, length - 1);
+                        ShowMsg(socketSend.RemoteEndPoint + ":" + content);
+                    }
+                    else if (buffer[0] == 1)
+                    {
+                        // txt文本文件
+                        SaveFileDialog savefileDialog = new SaveFileDialog();
+                        savefileDialog.Title = "请选择要保存的路径";
+                        savefileDialog.Filter = "文件|*.txt";
+                        savefileDialog.ShowDialog(this);
+
+                        string path = savefileDialog.FileName;
+                        if (path != null)
+                        {
+                            using (FileStream writeFileStream = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Write))
+                            {
+                                writeFileStream.Write(buffer, 1, buffer.Length - 1);
+                                MessageBox.Show("保存成功");
+                            }
+                        }
+                        {
+
+                        }
+                    }
+                    else if (buffer[0] == 2)
+                    {
+                        Point current = this.Location;
+                        // 震动
+                        for (int i = 0; i < 500; i++)
+                        {
+                            this.Location = new Point(current.X + 20, current.Y + 20);
+                            this.Location = current;
+                        }
+                    }
                 }
                 catch
                 {
