@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\bin\Debug\_Socket练习.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\bin\Debug\_Socket练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\bin\Debug\_Socket练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\obj\Debug\_Socket练习.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\obj\Debug\_Socket练习.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\obj\Debug\_Socket练习.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\obj\Debug\_Socket练习.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\obj\Debug\_Socket练习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\obj\Debug\_Socket练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket练习\obj\Debug\_Socket练习.pdb
