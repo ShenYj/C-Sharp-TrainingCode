@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\bin\Debug\_Socket客户端.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\bin\Debug\_Socket客户端.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\bin\Debug\_Socket客户端.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\obj\Debug\_Socket客户端.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\obj\Debug\_Socket客户端.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\obj\Debug\_Socket客户端.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\obj\Debug\_Socket客户端.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\obj\Debug\_Socket客户端.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\obj\Debug\_Socket客户端.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Socket练习\_Socket客户端\obj\Debug\_Socket客户端.csprojResolveAssemblyReference.cache
