@@ -81,7 +81,6 @@ namespace _Socket客户端
             {
                 try
                 {
-                    //Socket socketReceived = socketSend.Accept();
                     // 客户端连接成功后， 服务器接收客户端发来的消息
                     byte[] buffer = new byte[1024 * 1024 * 2];
                     int length = socketSend.Receive(buffer);

@@ -46,7 +46,7 @@
             this.tbIP.Name = "tbIP";
             this.tbIP.Size = new System.Drawing.Size(93, 21);
             this.tbIP.TabIndex = 0;
-            this.tbIP.Text = "192.168.0.112";
+            this.tbIP.Text = "192.168.11.230";
             this.tbIP.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // lbIP

@@ -13,12 +13,17 @@ using System.Windows.Forms;
 
 namespace _Socket练习
 {
+
+    /// <summary>
+    /// 服务端Socket
+    /// </summary>
     public partial class Form1 : Form
     {
         // 线程
         private Thread thread;
         // 负责通信的Socket
-        private Socket socketSend;
+        private Dictionary<string, Socket> socketDicts = new Dictionary<string, Socket>();
+        private Socket socketWatch;
 
         public Form1()
         {
@@ -30,7 +35,7 @@ namespace _Socket练习
             try
             {
                 // 在服务端创建一个负责监听IP地址跟端口号的Socket
-                Socket socketWatch = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+                socketWatch = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
                 IPAddress ip = IPAddress.Any;//IPAddress.Parse(tbIp.Text);
                                              // 创建端口号对象 192.168.0.112
                 IPEndPoint point = new IPEndPoint(ip, Convert.ToInt32(tbPort.Text));
@@ -59,6 +64,12 @@ namespace _Socket练习
                     {
                         // 等待客户端的连接， 并创建一个负责通信的Socket
                         Socket socketSend = socketWatch.Accept();
+
+                        // 缓存Socket
+                        this.socketDicts.Add(socketSend.RemoteEndPoint.ToString(), socketSend);
+                        // 添加到ComboBox中
+                        comboBox1.Items.Add(socketSend.RemoteEndPoint.ToString());
+
                         ShowMsg(socketSend.RemoteEndPoint + ":连接成功");
                         // 创建一个线程去接收数据
                         Thread receivedMsgThread = new Thread(ReceivedMessage);
@@ -77,7 +88,7 @@ namespace _Socket练习
         /// <param name="obj"></param>
         private void ReceivedMessage(Object obj)
         {
-            socketSend = obj as Socket;
+            Socket socketSend = obj as Socket;
             while (true)
             {
                 try
@@ -109,6 +120,7 @@ namespace _Socket练习
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
+            socketWatch.Close();
             thread.Abort();
         }
 
@@ -119,7 +131,8 @@ namespace _Socket练习
             {
                 try
                 {
-                    int length = socketSend.Send(buffer, 0, buffer.Length, SocketFlags.None);
+                    Socket socket = this.socketDicts[comboBox1.SelectedItem.ToString()];
+                    int length = socket.Send(buffer, 0, buffer.Length, SocketFlags.None);
                     if (length == buffer.Length)
                     {
                         tbSend.Clear();
@@ -129,6 +142,16 @@ namespace _Socket练习
                 catch (Exception)
                 {
                 }
+            }
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (socketWatch != null)
+            {
+                socketWatch.Close();
+                socketWatch.Dispose();
             }
             
         }
