@@ -17,6 +17,8 @@ namespace _Socket练习
     {
         // 线程
         private Thread thread;
+        // 负责通信的Socket
+        private Socket socketSend;
 
         public Form1()
         {
@@ -75,7 +77,7 @@ namespace _Socket练习
         /// <param name="obj"></param>
         private void ReceivedMessage(Object obj)
         {
-            Socket socketSend = obj as Socket;
+            socketSend = obj as Socket;
             while (true)
             {
                 try
@@ -83,6 +85,7 @@ namespace _Socket练习
                     // 客户端连接成功后， 服务器接收客户端发来的消息
                     byte[] buffer = new byte[1024 * 1024 * 2];
                     int length = socketSend.Receive(buffer);
+                    if (length == 0) break;
                     // 将接收到的数据转成字符串
                     string content = Encoding.Default.GetString(buffer, 0, length);
                     ShowMsg(socketSend.RemoteEndPoint + ":" + content);
@@ -107,6 +110,27 @@ namespace _Socket练习
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             thread.Abort();
+        }
+
+        private void btnSend_Click(object sender, EventArgs e)
+        {
+            byte[] buffer = Encoding.Default.GetBytes(tbSend.Text);
+            if (buffer.Length > 0)
+            {
+                try
+                {
+                    int length = socketSend.Send(buffer, 0, buffer.Length, SocketFlags.None);
+                    if (length == buffer.Length)
+                    {
+                        tbSend.Clear();
+                        Console.WriteLine("发送成功");
+                    }
+                }
+                catch (Exception)
+                {
+                }
+            }
+            
         }
     }
 }

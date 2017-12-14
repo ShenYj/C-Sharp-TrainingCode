@@ -34,6 +34,9 @@
             this.lblIP = new System.Windows.Forms.Label();
             this.tbPort = new System.Windows.Forms.TextBox();
             this.lblPort = new System.Windows.Forms.Label();
+            this.tbSend = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnSend = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnWatch
@@ -89,11 +92,41 @@
             this.lblPort.TabIndex = 5;
             this.lblPort.Text = "端口号：";
             // 
+            // tbSend
+            // 
+            this.tbSend.Location = new System.Drawing.Point(36, 191);
+            this.tbSend.Multiline = true;
+            this.tbSend.Name = "tbSend";
+            this.tbSend.Size = new System.Drawing.Size(276, 59);
+            this.tbSend.TabIndex = 6;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(36, 173);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(71, 12);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "发送的消息:";
+            // 
+            // btnSend
+            // 
+            this.btnSend.Location = new System.Drawing.Point(337, 207);
+            this.btnSend.Name = "btnSend";
+            this.btnSend.Size = new System.Drawing.Size(75, 23);
+            this.btnSend.TabIndex = 8;
+            this.btnSend.Text = "发送消息";
+            this.btnSend.UseVisualStyleBackColor = true;
+            this.btnSend.Click += new System.EventHandler(this.btnSend_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(434, 262);
+            this.Controls.Add(this.btnSend);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.tbSend);
             this.Controls.Add(this.lblPort);
             this.Controls.Add(this.tbPort);
             this.Controls.Add(this.lblIP);
@@ -119,6 +152,9 @@
         private System.Windows.Forms.Label lblIP;
         private System.Windows.Forms.TextBox tbPort;
         private System.Windows.Forms.Label lblPort;
+        private System.Windows.Forms.TextBox tbSend;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnSend;
     }
 }
 
