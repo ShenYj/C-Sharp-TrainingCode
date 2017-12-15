@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\bin\Debug\GDI.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\bin\Debug\GDI.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\bin\Debug\GDI.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\obj\Debug\GDI.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\obj\Debug\GDI.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\obj\Debug\GDI.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\obj\Debug\GDI.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\obj\Debug\GDI.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\GDI\obj\Debug\GDI.pdb

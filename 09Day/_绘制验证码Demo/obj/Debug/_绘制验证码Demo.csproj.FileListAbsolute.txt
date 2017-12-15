@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\bin\Debug\_绘制验证码Demo.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\bin\Debug\_绘制验证码Demo.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\bin\Debug\_绘制验证码Demo.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\obj\Debug\_绘制验证码Demo.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\obj\Debug\_绘制验证码Demo.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\obj\Debug\_绘制验证码Demo.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\obj\Debug\_绘制验证码Demo.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\obj\Debug\_绘制验证码Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\obj\Debug\_绘制验证码Demo.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\09Day\_绘制验证码Demo\obj\Debug\_绘制验证码Demo.pdb

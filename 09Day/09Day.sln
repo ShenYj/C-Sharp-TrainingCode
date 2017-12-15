@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDI", "GDI\GDI.csproj", "{DA980599-EE0A-4781-87EF-1BC20F6A2F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_绘制验证码Demo", "_绘制验证码Demo\_绘制验证码Demo.csproj", "{1A2688B5-CF4C-4D3E-A0BB-98EDABBAE6E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA980599-EE0A-4781-87EF-1BC20F6A2F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA980599-EE0A-4781-87EF-1BC20F6A2F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA980599-EE0A-4781-87EF-1BC20F6A2F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA980599-EE0A-4781-87EF-1BC20F6A2F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2688B5-CF4C-4D3E-A0BB-98EDABBAE6E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2688B5-CF4C-4D3E-A0BB-98EDABBAE6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2688B5-CF4C-4D3E-A0BB-98EDABBAE6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2688B5-CF4C-4D3E-A0BB-98EDABBAE6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDBF40AE-3BDA-40E9-AE9D-BF93482B06BB}
+	EndGlobalSection
+EndGlobal
