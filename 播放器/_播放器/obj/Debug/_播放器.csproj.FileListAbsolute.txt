@@ -1,0 +1,15 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\bin\Debug\_播放器.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\bin\Debug\_播放器.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\bin\Debug\_播放器.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\_播放器.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\_播放器.csproj.ResolveComReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\_播放器.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\_播放器.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\_播放器.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\_播放器.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\_播放器.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\播放器\_播放器\obj\Debug\_播放器.pdb
