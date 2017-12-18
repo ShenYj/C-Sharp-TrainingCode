@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\bin\Debug\_XML.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\bin\Debug\_XML.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\bin\Debug\_XML.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\obj\Debug\_XML.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\obj\Debug\_XML.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\obj\Debug\_XML.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\obj\Debug\_XML.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\obj\Debug\_XML.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\obj\Debug\_XML.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_XML\obj\Debug\_XML.pdb

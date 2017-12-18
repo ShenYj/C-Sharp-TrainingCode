@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_窗体传值", "_窗体传
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_多播委托", "_多播委托\_多播委托.csproj", "{4D38DC78-EE06-439E-B3BE-F17942DA2801}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_XML", "_XML\_XML.csproj", "{7204B66A-94F7-477A-AC24-FB9B62C05BD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4D38DC78-EE06-439E-B3BE-F17942DA2801}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D38DC78-EE06-439E-B3BE-F17942DA2801}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D38DC78-EE06-439E-B3BE-F17942DA2801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7204B66A-94F7-477A-AC24-FB9B62C05BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7204B66A-94F7-477A-AC24-FB9B62C05BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7204B66A-94F7-477A-AC24-FB9B62C05BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7204B66A-94F7-477A-AC24-FB9B62C05BD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
