@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托练习2\bin\Debug\_委托练习2.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托练习2\bin\Debug\_委托练习2.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托练习2\bin\Debug\_委托练习2.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托练习2\obj\Debug\_委托练习2.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托练习2\obj\Debug\_委托练习2.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托练习2\obj\Debug\_委托练习2.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托练习2\obj\Debug\_委托练习2.pdb

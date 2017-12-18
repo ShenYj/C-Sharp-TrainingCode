@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_多播委托\bin\Debug\_多播委托.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_多播委托\bin\Debug\_多播委托.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_多播委托\bin\Debug\_多播委托.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_多播委托\obj\Debug\_多播委托.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_多播委托\obj\Debug\_多播委托.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_多播委托\obj\Debug\_多播委托.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_多播委托\obj\Debug\_多播委托.pdb

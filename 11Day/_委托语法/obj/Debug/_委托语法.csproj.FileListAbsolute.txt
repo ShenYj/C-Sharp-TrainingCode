@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\bin\Debug\_委托语法.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\bin\Debug\_委托语法.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\bin\Debug\_委托语法.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\obj\Debug\_委托语法.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\obj\Debug\_委托语法.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\obj\Debug\_委托语法.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\obj\Debug\_委托语法.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\obj\Debug\_委托语法.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\obj\Debug\_委托语法.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法\obj\Debug\_委托语法.Form1.resources

@@ -1,0 +1,6 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法练习\bin\Debug\_委托语法练习.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法练习\bin\Debug\_委托语法练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法练习\bin\Debug\_委托语法练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法练习\obj\Debug\_委托语法练习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法练习\obj\Debug\_委托语法练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托语法练习\obj\Debug\_委托语法练习.pdb

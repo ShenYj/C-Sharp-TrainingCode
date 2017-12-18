@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_泛型委托\bin\Debug\_泛型委托.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_泛型委托\bin\Debug\_泛型委托.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_泛型委托\bin\Debug\_泛型委托.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_泛型委托\obj\Debug\_泛型委托.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_泛型委托\obj\Debug\_泛型委托.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_泛型委托\obj\Debug\_泛型委托.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_泛型委托\obj\Debug\_泛型委托.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\bin\Debug\_委托概念.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\bin\Debug\_委托概念.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\bin\Debug\_委托概念.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\obj\Debug\_委托概念.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\obj\Debug\_委托概念.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\obj\Debug\_委托概念.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\obj\Debug\_委托概念.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\obj\Debug\_委托概念.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\obj\Debug\_委托概念.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_委托概念\obj\Debug\_委托概念.Form1.resources

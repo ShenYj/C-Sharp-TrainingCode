@@ -1,0 +1,6 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_匿名函数练习1\bin\Debug\_匿名函数练习1.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_匿名函数练习1\bin\Debug\_匿名函数练习1.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_匿名函数练习1\bin\Debug\_匿名函数练习1.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_匿名函数练习1\obj\Debug\_匿名函数练习1.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_匿名函数练习1\obj\Debug\_匿名函数练习1.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_匿名函数练习1\obj\Debug\_匿名函数练习1.pdb

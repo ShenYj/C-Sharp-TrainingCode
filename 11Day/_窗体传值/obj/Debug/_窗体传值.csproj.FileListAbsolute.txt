@@ -1,0 +1,11 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\bin\Debug\_窗体传值.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\bin\Debug\_窗体传值.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\bin\Debug\_窗体传值.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\obj\Debug\_窗体传值.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\obj\Debug\_窗体传值.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\obj\Debug\_窗体传值.Form2.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\obj\Debug\_窗体传值.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\obj\Debug\_窗体传值.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\obj\Debug\_窗体传值.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\obj\Debug\_窗体传值.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_窗体传值\obj\Debug\_窗体传值.pdb
