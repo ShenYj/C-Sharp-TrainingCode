@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\bin\Debug\_单例.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\bin\Debug\_单例.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\bin\Debug\_单例.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\obj\Debug\_单例.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\obj\Debug\_单例.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\obj\Debug\_单例.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\obj\Debug\_单例.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\obj\Debug\_单例.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\obj\Debug\_单例.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\11Day\_单例\obj\Debug\_单例.pdb
