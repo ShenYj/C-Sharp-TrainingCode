@@ -1,0 +1,15 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\bin\Debug\_Grid实现登录视图.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\bin\Debug\_Grid实现登录视图.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\bin\Debug\_Grid实现登录视图.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\App.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图_MarkupCompile.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图_MarkupCompile.lref
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\MainWindow.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图.g.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day12_WPF\_Grid实现登录视图\obj\Debug\_Grid实现登录视图.pdb
