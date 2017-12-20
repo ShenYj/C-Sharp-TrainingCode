@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day13_WPF", "Day13_WPF\Day13_WPF.csproj", "{4CBA3C4F-51F8-4E1A-A2FC-E0B0A76604FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ToolBar", "_ToolBar\_ToolBar.csproj", "{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4CBA3C4F-51F8-4E1A-A2FC-E0B0A76604FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CBA3C4F-51F8-4E1A-A2FC-E0B0A76604FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CBA3C4F-51F8-4E1A-A2FC-E0B0A76604FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

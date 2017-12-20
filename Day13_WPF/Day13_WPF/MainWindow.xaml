@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Grid Width="200" Height="40" HorizontalAlignment="Center">
+        <StackPanel>
             <Menu VerticalAlignment="Center">
                 <MenuItem Header="文件">
                     <MenuItem Header="打开"></MenuItem>
@@ -15,6 +15,17 @@
                 </MenuItem>
                 <MenuItem Header="编辑"></MenuItem>
             </Menu>
-        </Grid>
+        </StackPanel>
+
+        <DockPanel Margin="0,20,0,0">
+            <!--把一个子元素靠（上、下、左、右）边的布局控件-->
+            <Menu DockPanel.Dock="Left" HorizontalAlignment="Left">
+                <MenuItem Header="1"></MenuItem>
+                <MenuItem Header="2"></MenuItem>
+            </Menu>
+        </DockPanel>
+        <!--<Grid Width="200" Height="40" HorizontalAlignment="Center">
+            
+        </Grid>-->
     </Grid>
 </Window>
