@@ -1,0 +1,15 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\bin\Debug\Day13_WPF.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\bin\Debug\Day13_WPF.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\bin\Debug\Day13_WPF.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\App.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF_MarkupCompile.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF_MarkupCompile.lref
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\MainWindow.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF.g.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\Day13_WPF\obj\Debug\Day13_WPF.pdb
