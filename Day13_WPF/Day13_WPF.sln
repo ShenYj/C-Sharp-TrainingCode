@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day13_WPF", "Day13_WPF\Day1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ToolBar", "_ToolBar\_ToolBar.csproj", "{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_多窗口", "_多窗口\_多窗口.csproj", "{FDF3362E-DC40-42B4-AD50-958FEB2405A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F72F3FB-6EB5-4181-9F03-CE0A5BDCB23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF3362E-DC40-42B4-AD50-958FEB2405A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF3362E-DC40-42B4-AD50-958FEB2405A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF3362E-DC40-42B4-AD50-958FEB2405A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF3362E-DC40-42B4-AD50-958FEB2405A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

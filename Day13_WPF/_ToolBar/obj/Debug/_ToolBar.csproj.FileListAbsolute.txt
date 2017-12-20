@@ -12,3 +12,4 @@ C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_ToolBar\obj\Debug\_Tool
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_ToolBar\obj\Debug\_ToolBar.csproj.CoreCompileInputs.cache
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_ToolBar\obj\Debug\_ToolBar.exe
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_ToolBar\obj\Debug\_ToolBar.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_ToolBar\obj\Debug\_ToolBar.csprojResolveAssemblyReference.cache

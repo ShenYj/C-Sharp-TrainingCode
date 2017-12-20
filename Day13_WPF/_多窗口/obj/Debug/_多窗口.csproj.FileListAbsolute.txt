@@ -1,0 +1,16 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\bin\Debug\_多窗口.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\bin\Debug\_多窗口.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\bin\Debug\_多窗口.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\Window1.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\App.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口_MarkupCompile.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口_MarkupCompile.lref
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\MainWindow.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\Window1.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.g.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.pdb

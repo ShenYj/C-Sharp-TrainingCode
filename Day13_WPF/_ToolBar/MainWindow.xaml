@@ -10,10 +10,10 @@
         <DockPanel>
             <ToolBar DockPanel.Dock="Top">
                 <Button Width="40" Height="15">
-                    <!--既有文字有有图片-->
-                    <Button.Content>
-                        <Image Source="icons/Toolbar_Tabs_256px_1072700_easyicon.net.png"></Image>
-                    </Button.Content>
+                    <!--(Button.Content比较特殊，可以省略)-->
+                    <!--<Button.Content>-->
+                    <Image Source="icons/Toolbar_Tabs_256px_1072700_easyicon.net.png"></Image>
+                    <!--</Button.Content>-->
                 </Button>
                 <Button Width="20" Height="15">
                     <Button.Background>
