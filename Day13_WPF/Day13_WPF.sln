@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ToolBar", "_ToolBar\_ToolB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_多窗口", "_多窗口\_多窗口.csproj", "{FDF3362E-DC40-42B4-AD50-958FEB2405A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_窗口传值", "_窗口传值\_窗口传值.csproj", "{B26FCF98-4620-4456-8859-CD1DAE84E832}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FDF3362E-DC40-42B4-AD50-958FEB2405A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDF3362E-DC40-42B4-AD50-958FEB2405A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDF3362E-DC40-42B4-AD50-958FEB2405A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26FCF98-4620-4456-8859-CD1DAE84E832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26FCF98-4620-4456-8859-CD1DAE84E832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26FCF98-4620-4456-8859-CD1DAE84E832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26FCF98-4620-4456-8859-CD1DAE84E832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

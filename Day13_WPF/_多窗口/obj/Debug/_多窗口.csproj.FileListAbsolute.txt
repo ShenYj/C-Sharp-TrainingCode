@@ -14,3 +14,4 @@ C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_�
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.csproj.CoreCompileInputs.cache
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.exe
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_多窗口\obj\Debug\_多窗口.csprojResolveAssemblyReference.cache

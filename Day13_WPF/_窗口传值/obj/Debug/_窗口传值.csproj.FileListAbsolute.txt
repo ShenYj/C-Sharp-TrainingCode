@@ -1,0 +1,17 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\bin\Debug\_窗口传值.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\bin\Debug\_窗口传值.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\bin\Debug\_窗口传值.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\Window1.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\App.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值_MarkupCompile.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值_MarkupCompile.lref
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\MainWindow.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\Window1.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值.g.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_窗口传值\obj\Debug\_窗口传值.pdb
