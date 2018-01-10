@@ -16,5 +16,25 @@ namespace _事件1
         {
             InitializeComponent();
         }
+
+        private int count = 0;
+
+        // 声明一个事件(在声明委托变量前面加一个event，委托变量就变成了事件)
+        // 事件不能用=复制，只能用+= 或者 -= 赋值
+        
+        public event Action TripleClick;
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            count++;
+            if (count >= 3)
+            {
+                if (TripleClick != null)
+                {
+                    TripleClick();
+                }
+                count = 0;
+            }
+        }
     }
 }
