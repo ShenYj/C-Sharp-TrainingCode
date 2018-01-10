@@ -50,6 +50,21 @@ namespace _反射
                 PropertyInfo proper = (PropertyInfo)item;
                 Console.WriteLine(proper.Name);
             }
+
+            // 查看所有public的类型
+            Assembly assembly = Assembly.LoadFile(@"xxxxxx.dll");
+            Type[] types = assembly.GetExportedTypes();
+
+            // 查看public的类型
+            Assembly assembly1 = Assembly.LoadFile(@"xxxxxx.dll.Person");
+            Type[] types1 = assembly1.GetExportedTypes();
+
+            // 获取指定方法
+            MethodInfo method = type1.GetMethod("方法名");
+
+            // 调用方法
+            Object obj = Activator.CreateInstance(type1); // 通过获取的type类型实例化对象
+            method.Invoke(obj, null);
         }
 
         
