@@ -23,6 +23,33 @@ namespace _多播委托
         public MainWindow()
         {
             InitializeComponent();
+
+            Action<string> md = Method1;
+            md += Method2;
+            md += Method3;
+            md += Method4;
+
+            md("多播委托");
+            // 调用md后， 以下4个方法都会被调用
+            // 执行顺序不一定会保持这个添加的顺序
+            md -= Method2; 
+        }
+
+        private void Method1(string str)
+        {
+            Console.WriteLine("Method1: " + str);
+        }
+        private void Method2(string str)
+        {
+            Console.WriteLine("Method2: " + str);
+        }
+        private void Method3(string str)
+        {
+            Console.WriteLine("Method3: " + str);
+        }
+        private void Method4(string str)
+        {
+            Console.WriteLine("Method4: " + str);
         }
     }
 }
