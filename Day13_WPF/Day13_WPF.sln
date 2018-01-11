@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_事件1", "_事件1\_事�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_反射", "_反射\_反射.csproj", "{5ECB8E16-DC87-439E-AE0F-CAFB07054EE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_记事本插件练习", "_记事本插件练习\_记事本插件练习.csproj", "{00CC8C71-E628-4112-B74F-64BA96335469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNotepad.ExtInterface", "MyNotepad.ExtInterface\MyNotepad.ExtInterface.csproj", "{93C740FC-2C59-47D9-8904-218795B192A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{5ECB8E16-DC87-439E-AE0F-CAFB07054EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ECB8E16-DC87-439E-AE0F-CAFB07054EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ECB8E16-DC87-439E-AE0F-CAFB07054EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CC8C71-E628-4112-B74F-64BA96335469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CC8C71-E628-4112-B74F-64BA96335469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CC8C71-E628-4112-B74F-64BA96335469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CC8C71-E628-4112-B74F-64BA96335469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C740FC-2C59-47D9-8904-218795B192A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C740FC-2C59-47D9-8904-218795B192A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C740FC-2C59-47D9-8904-218795B192A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C740FC-2C59-47D9-8904-218795B192A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

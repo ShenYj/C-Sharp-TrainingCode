@@ -1,0 +1,10 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\bin\Debug\_记事本插件练习.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\bin\Debug\_记事本插件练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\bin\Debug\_记事本插件练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.Form1.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.pdb
