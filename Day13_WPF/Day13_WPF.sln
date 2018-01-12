@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_记事本插件练习", "_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNotepad.ExtInterface", "MyNotepad.ExtInterface\MyNotepad.ExtInterface.csproj", "{93C740FC-2C59-47D9-8904-218795B192A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{93C740FC-2C59-47D9-8904-218795B192A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93C740FC-2C59-47D9-8904-218795B192A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93C740FC-2C59-47D9-8904-218795B192A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
