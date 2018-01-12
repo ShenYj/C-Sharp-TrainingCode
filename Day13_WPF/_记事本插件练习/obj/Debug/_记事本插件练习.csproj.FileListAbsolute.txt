@@ -8,3 +8,5 @@ C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\o
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.csproj.CoreCompileInputs.cache
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.exe
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\obj\Debug\_记事本插件练习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\bin\Debug\MyNotepad.ExtInterface.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_记事本插件练习\bin\Debug\MyNotepad.ExtInterface.pdb

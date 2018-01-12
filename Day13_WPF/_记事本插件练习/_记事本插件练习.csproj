@@ -80,5 +80,14 @@
   <ItemGroup>
     <Folder Include="Plug-in\" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyNotepad.ExtInterface\MyNotepad.ExtInterface.csproj">
+      <Project>{93c740fc-2c59-47d9-8904-218795b192a3}</Project>
+      <Name>MyNotepad.ExtInterface</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

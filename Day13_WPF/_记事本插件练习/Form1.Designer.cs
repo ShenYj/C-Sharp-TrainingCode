@@ -34,7 +34,7 @@
             this.打开ToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.保存ToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.编辑ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.格式ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.format = new System.Windows.Forms.ToolStripMenuItem();
             this.字体ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.颜色ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.帮助ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -49,7 +49,7 @@
             this.toolStripMenuItem1,
             this.打开ToolStripMenuItem,
             this.编辑ToolStripMenuItem,
-            this.格式ToolStripMenuItem,
+            this.format,
             this.帮助ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -91,26 +91,26 @@
             this.编辑ToolStripMenuItem.Size = new System.Drawing.Size(44, 21);
             this.编辑ToolStripMenuItem.Text = "编辑";
             // 
-            // 格式ToolStripMenuItem
+            // format
             // 
-            this.格式ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.format.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.字体ToolStripMenuItem,
             this.颜色ToolStripMenuItem});
-            this.格式ToolStripMenuItem.Name = "格式ToolStripMenuItem";
-            this.格式ToolStripMenuItem.Size = new System.Drawing.Size(44, 21);
-            this.格式ToolStripMenuItem.Text = "格式";
+            this.format.Name = "format";
+            this.format.Size = new System.Drawing.Size(44, 21);
+            this.format.Text = "格式";
             // 
             // 字体ToolStripMenuItem
             // 
             this.字体ToolStripMenuItem.Name = "字体ToolStripMenuItem";
-            this.字体ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
+            this.字体ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.字体ToolStripMenuItem.Text = "字体";
             this.字体ToolStripMenuItem.Click += new System.EventHandler(this.字体ToolStripMenuItem_Click);
             // 
             // 颜色ToolStripMenuItem
             // 
             this.颜色ToolStripMenuItem.Name = "颜色ToolStripMenuItem";
-            this.颜色ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
+            this.颜色ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.颜色ToolStripMenuItem.Text = "颜色";
             this.颜色ToolStripMenuItem.Click += new System.EventHandler(this.颜色ToolStripMenuItem_Click);
             // 
@@ -147,6 +147,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -161,7 +162,7 @@
         private System.Windows.Forms.ToolStripMenuItem 保存ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 打开ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 编辑ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 格式ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem format;
         private System.Windows.Forms.ToolStripMenuItem 帮助ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 打开ToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem 保存ToolStripMenuItem1;

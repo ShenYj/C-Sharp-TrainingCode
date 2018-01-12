@@ -1,6 +1,5 @@
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\MyNotepad.ExtInterface\bin\Debug\MyNotepad.ExtInterface.dll
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\MyNotepad.ExtInterface\bin\Debug\MyNotepad.ExtInterface.pdb
-C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\MyNotepad.ExtInterface\obj\Debug\MyNotepad.ExtInterface.csprojResolveAssemblyReference.cache
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\MyNotepad.ExtInterface\obj\Debug\MyNotepad.ExtInterface.csproj.CoreCompileInputs.cache
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\MyNotepad.ExtInterface\obj\Debug\MyNotepad.ExtInterface.dll
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\MyNotepad.ExtInterface\obj\Debug\MyNotepad.ExtInterface.pdb

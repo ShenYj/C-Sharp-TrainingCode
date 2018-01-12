@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace MyNotepad.ExtInterface
 {
@@ -16,9 +17,9 @@ namespace MyNotepad.ExtInterface
         /// <summary>
         /// 运行该插件的功能
         /// </summary>
-        public bool Run()
+        public void Run(TextBox tb)
         {
-            return false;
+            
         }
 
     }
