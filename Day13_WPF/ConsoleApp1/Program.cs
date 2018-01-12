@@ -16,7 +16,7 @@ namespace ConsoleApp1
             Console.ReadKey();
             
         }
-        [Flags]// 标示枚举
+        [Flags]// 标示枚举,打印后不再是数值，而是枚举中的文本
         public enum Des
         {
             gao   = 1,

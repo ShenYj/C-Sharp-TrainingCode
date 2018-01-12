@@ -1,0 +1,6 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_隐式类型\bin\Debug\_隐式类型.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_隐式类型\bin\Debug\_隐式类型.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_隐式类型\bin\Debug\_隐式类型.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_隐式类型\obj\Debug\_隐式类型.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_隐式类型\obj\Debug\_隐式类型.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\Day13_WPF\_隐式类型\obj\Debug\_隐式类型.pdb

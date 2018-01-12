@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNotepad.ExtInterface", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_隐式类型", "_隐式类型\_隐式类型.csproj", "{811C44E0-C6F9-4D6A-9B3A-6BB8F4C733B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5B0E9BC-FB8F-4CEF-B9E3-F0380EACEFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811C44E0-C6F9-4D6A-9B3A-6BB8F4C733B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811C44E0-C6F9-4D6A-9B3A-6BB8F4C733B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811C44E0-C6F9-4D6A-9B3A-6BB8F4C733B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811C44E0-C6F9-4D6A-9B3A-6BB8F4C733B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
