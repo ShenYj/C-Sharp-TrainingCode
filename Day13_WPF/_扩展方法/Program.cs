@@ -10,10 +10,6 @@ namespace _扩展方法
     {
         static void Main(string[] args)
         {
-            //List<int> list = new List<int>();
-            //list.Add(10);
-            //list.Add(12);
-            //list.Add(134);
             // 所有的扩展方法都是在静态类中的
 
             Person p = new Person();
@@ -34,6 +30,7 @@ namespace _扩展方法
     // 1. 扩展方法第一步：先定义一个静态类
     public static class PersonExt
     {
+        // 2.通过this关键字，表示给哪个类增加扩展方法
         public static void SayHello(this Person p)
         {
             Console.WriteLine("SayHello Method");
