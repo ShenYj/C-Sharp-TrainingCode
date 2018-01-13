@@ -12,9 +12,12 @@ namespace _隐式类型
         {
             // 隐式类型
             var p = new { Name = "黄林", Age = 18, Email = "wqasdf@163.com" };
+
             Console.WriteLine(p.Name);
             Console.WriteLine(p.Age);
             Console.WriteLine(p.Email);
+            // 隐式类型只能读取不能赋值
+            //p.Name = "xiaosd";
             Console.ReadKey();
         }
     }
