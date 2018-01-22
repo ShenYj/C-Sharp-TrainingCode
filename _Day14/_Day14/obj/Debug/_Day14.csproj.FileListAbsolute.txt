@@ -1,0 +1,7 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Day14\_Day14\bin\Debug\_Day14.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Day14\_Day14\bin\Debug\_Day14.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Day14\_Day14\bin\Debug\_Day14.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Day14\_Day14\obj\Debug\_Day14.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Day14\_Day14\obj\Debug\_Day14.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Day14\_Day14\obj\Debug\_Day14.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\_Day14\_Day14\obj\Debug\_Day14.pdb
