@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:fuchuangDemo"
         mc:Ignorable="d"
-        Title="FloatWindow" WindowStartupLocation="Manual" Height="80" Width="80" AllowsTransparency="True" WindowStyle="None" Opacity="0.8" Topmost="False" Background="{x:Null}" ResizeMode="NoResize" Loaded="Window_Loaded" ShowInTaskbar="True" >
+        Title="FloatWindow" WindowStartupLocation="Manual" Height="80" Width="80" AllowsTransparency="True" WindowStyle="None" Opacity="0.8" Topmost="False" Background="{x:Null}" ResizeMode="NoResize" Loaded="Window_Loaded" ShowInTaskbar="True" MouseLeftButtonDown="Window_MouseLeftButtonDown" MouseDoubleClick="Window_MouseDoubleClick" >
     <Grid Name="FloatWindowGrid">
         
         <!--<Ellipse x:Name="ArcBg" Fill="#FF71C7D4" Height="120" Width="120" Margin="0,0,0,0"/>-->
@@ -21,8 +21,7 @@
             <ContextMenu>
                 <MenuItem Header="更改主题" />
                 <!--Click="ChangeTheme_Click"-->
-                <MenuItem Header="退出" />
-                <!--Click="Exit_Click"-->
+                <MenuItem Header="退出" Click="Exit_Click"/>
             </ContextMenu>
         </Grid.ContextMenu>
         

@@ -30,7 +30,7 @@ namespace fuchuangDemo
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            if (MyFloatWindow == null) MyFloatWindow = new FloatWindow();
+            if (MyFloatWindow == null) MyFloatWindow = new FloatWindow(this);
             MyFloatWindow.Left = SystemParameters.WorkArea.Width - 80;
             MyFloatWindow.Top = SystemParameters.WorkArea.Height- 80;
             MyFloatWindow.Show();
