@@ -1,0 +1,17 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\bin\Debug\fuchuangDemo.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\bin\Debug\fuchuangDemo.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\bin\Debug\fuchuangDemo.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\FloatWindow.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\App.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo_MarkupCompile.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo_MarkupCompile.lref
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\FloatWindow.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\MainWindow.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo.g.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\浮窗Demo\fuchuangDemo\fuchuangDemo\obj\Debug\fuchuangDemo.pdb
