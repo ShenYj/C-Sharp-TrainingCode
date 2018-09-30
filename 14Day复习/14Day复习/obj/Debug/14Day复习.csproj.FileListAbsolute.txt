@@ -1,0 +1,15 @@
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\bin\Debug\14Day复习.exe.config
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\bin\Debug\14Day复习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\bin\Debug\14Day复习.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\14Day复习.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\App.g.cs
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\14Day复习_MarkupCompile.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\14Day复习_MarkupCompile.lref
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\MainWindow.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\14Day复习.g.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\_14Day复习.Properties.Resources.resources
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\14Day复习.csproj.GenerateResource.Cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\14Day复习.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\14Day复习.exe
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\14Day复习\obj\Debug\14Day复习.pdb
