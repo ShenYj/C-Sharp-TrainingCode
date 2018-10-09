@@ -15,14 +15,15 @@
             </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="30"></ColumnDefinition>
-                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="17*"></ColumnDefinition>
+                <ColumnDefinition Width="197*"/>
                 <ColumnDefinition Width="30"></ColumnDefinition>
             </Grid.ColumnDefinitions>
             <!--控件-->
-            <Label Grid.Column="1" Grid.Row="0" Content="请申请报告" HorizontalAlignment="Center" ></Label>
-            <Button Grid.Column="2" Grid.Row="0" Width="20" Height="20" Content="X" HorizontalAlignment="Left"></Button>
-            <Label Grid.Row="1" Grid.ColumnSpan="3" Background="Gray" MaxHeight="1" Width="300" Margin="20,2" HorizontalAlignment="Center"  />
-            <WebBrowser Grid.Row="2" Grid.ColumnSpan="3" Name="ApplyReportWebBrowser"/>
+            <Label Grid.Column="2" Grid.Row="0" Content="请申请报告" HorizontalAlignment="Center" Margin="55,0,72,0" ></Label>
+            <Button Grid.Column="3" Grid.Row="0" Width="20" Height="20" Content="X" HorizontalAlignment="Left" Margin="0,5"></Button>
+            <Label Grid.Row="1" Grid.ColumnSpan="4" Background="Gray" MaxHeight="1" Width="300" Margin="-13,2" HorizontalAlignment="Center"  />
+            <WebBrowser Grid.Row="2" Grid.ColumnSpan="4" Name="ApplyReportWebBrowser"/>
         </Grid>
     </Grid>
 </Window>
