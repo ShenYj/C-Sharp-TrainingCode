@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="ListBox练习.DeviceListItem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ListBox练习"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="760">
+    <Grid>
+        <StackPanel Width="760" Margin="0,0,0,0" Height="50">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="15"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                    <ColumnDefinition Width="60"></ColumnDefinition>
+                    <ColumnDefinition Width="110"></ColumnDefinition>
+                    <ColumnDefinition Width="60"></ColumnDefinition>
+                    <ColumnDefinition Width="40"></ColumnDefinition>
+                    <ColumnDefinition Width="80"></ColumnDefinition>
+                    <ColumnDefinition Width="80"></ColumnDefinition>
+                    <ColumnDefinition Width="100"></ColumnDefinition>
+                    <ColumnDefinition Width="60"></ColumnDefinition>
+                    <ColumnDefinition Width="60"></ColumnDefinition>
+                    <ColumnDefinition Width="50"></ColumnDefinition>
+                    <ColumnDefinition Width="40"></ColumnDefinition>
+                    <ColumnDefinition Width="5"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Label Name="DAccount" Content="登录账号" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                <Label Name="DCacheDate" Content="缓存时间" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                <Label Name="DName" Content="患者姓名" Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                <Label Name="DGender" Content="性别" Grid.Row="1" Grid.Column="4" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                <Label Name="DCacheDuration" Content="缓存数据" Grid.Row="1" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                <Label Name="DPhoneNumber" Content="患者电话" Grid.Row="1" Grid.Column="6" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                <Label Name="DMacPath" Content="MAC" Grid.Row="1" Grid.Column="7" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+                <Button Name="DIsUpload" Content="等待佩戴" FontSize="10" Grid.Row="1" Grid.Column="8" VerticalAlignment="Center" HorizontalAlignment="Center"></Button>
+                <Button Name="DIsBinding" Content="绑定用户" FontSize="10" Grid.Row="1" Grid.Column="9" VerticalAlignment="Center" HorizontalAlignment="Center"></Button>
+                <Button Name="DApplyReport" Content="申请" FontSize="10" Grid.Row="1" Grid.Column="10" VerticalAlignment="Center" HorizontalAlignment="Center"></Button>
+                
+                <ProgressBar Name="DUploadProgressBar" Value="90" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="10" VerticalAlignment="Center" Height="5"></ProgressBar>
+                <Label Name="DUploadProgressLabel" Content="100%" FontSize="10" VerticalAlignment="Bottom" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="11" Grid.RowSpan="2"></Label>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</UserControl>
