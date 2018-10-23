@@ -1,6 +1,10 @@
-﻿using System;
+﻿using GalaSoft.MvvmLight;
+using GalaSoft.MvvmLight.Command;
+using GalaSoft.MvvmLight.Messaging;
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,36 +25,111 @@ namespace ListBox练习
     /// </summary>
     public partial class MainWindow : Window
     {
+        //public MainWindowViewModel MainWindowsVM { get; set; }
+
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void MyListBox_Loaded(object sender, RoutedEventArgs e)
-        {
-
-            //Hashtable ht1 = new Hashtable();
-            //ht1.Add("account", "CB2342432432");
-            //ht1.Add("cacheDate", "2017/08/18-2018/03/13");
-            //ht1.Add("cacheDuration", "10天7时");
-            //ht1.Add("phneNumber", "13888888888");
-            //ht1.Add("gender", "女");
-            //ht1.Add("MAC", "10:20:30:AC:ED");
-            //ht1.Add("account", "CB2342432432");
-            //ht1.Add("name", "张三");
-            //ht1.Add("upload", "未上传");
-            //ht1.Add("bind", "绑定用户");
-            //ht1.Add("apply", "申请");
-
-            DeviceListItem item = new DeviceListItem();
-            item.DAccount.Content = "CB2342432432";
-            item.DCacheDate.Content = "2017/08/18-2018/03/13";
-            item.DCacheDuration.Content = "10天7时";
-            item.DName.Content = "张三";
-            item.DPhoneNumber.Content = "13888888888";
-            item.DGender.Content = "女";
-            item.DIsBinding.IsEnabled = false;
-            MyListBox.Items.Add(item);
+            DataContext = new MainWindowViewModel();
         }
     }
+
+    public class MainWindowViewModel : ViewModelBase, IDisposable
+    {
+        public MainWindowViewModel()
+        {
+            LoadedCommand = new RelayCommand(() => LoadData());
+            UnloadedCommand = new RelayCommand(() => UnLoadData());
+
+            CurrentDeviceList = new ObservableCollection<DeviceListItem>();
+            
+        }
+
+        public virtual void LoadData()
+        {
+            DeviceListItem item = new DeviceListItem()
+            {
+                DataContext = new DeviceListItemViewModel()
+                {
+                    DeviceItemModel = new ItemModel()
+                    {
+                        DAccount = "CB23424323111",
+                        DCacheDate = "2017/08/18-2018/03/13",
+                        DCacheDuration = "1天7时",
+                        DName = "张三",
+                        DPhoneNumber = "13888777788",
+                        DGender = "男",
+                        DIsBinding = false
+                    }
+                }
+            };
+            CurrentDeviceList.Add(item);
+            
+            DeviceListItem item1 = new DeviceListItem()
+            {
+                DataContext = new DeviceListItemViewModel()
+                {
+                    DeviceItemModel = new ItemModel()
+                    {
+                        DAccount = "CB2342432234",
+                        DCacheDate = "2017/08/20-2018/03/13",
+                        DCacheDuration = "10天7时",
+                        DName = "王五",
+                        DPhoneNumber = "13888888888",
+                        DGender = "女",
+                        DIsBinding = false
+                    }
+                }
+            };
+            CurrentDeviceList.Add(item1);
+
+            Console.WriteLine("列表元素个数：" + CurrentDeviceList.Count);
+
+
+            Console.WriteLine("LoadData 方法");
+            RaisePropertyChanged("CurrentDeviceList");
+        }
+
+        public virtual void UnLoadData()
+        {
+            Dispose();
+        }
+
+
+        public void Dispose()
+        {
+            //卸载当前对象注册的所有MVVMLight消息
+            Messenger.Default.Unregister(this);
+        }
+
+
+        #region 事件
+
+        /// <summary>
+        /// 加载数据
+        /// </summary>
+        public RelayCommand LoadedCommand { get; set; }
+
+        /// <summary>
+        /// 加载数据
+        /// </summary>
+        public RelayCommand UnloadedCommand { get; set; }
+
+        #endregion
+
+        public ObservableCollection<DeviceListItem> CurrentDeviceList { get; set; }
+    }
+
+
+    public class ItemModel : ViewModelBase
+    {
+        public string DAccount { get; set; }
+        public string DCacheDate { get; set; }
+        public string DCacheDuration { get; set; }
+        public string DName { get; set; }
+        public string DPhoneNumber { get; set; }
+        public string DGender { get; set; }
+        public bool DIsBinding { get; set; }
+    }
+
 }

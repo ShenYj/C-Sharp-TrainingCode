@@ -16,3 +16,15 @@ C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\obj\Debu
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\obj\Debug\DeviceListItem.g.cs
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\obj\Debug\DeviceListItem.baml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\CommonServiceLocator.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Ryan Shen\Desktop\CSharpTrainingCode\14Day复习\ListBox练习\obj\Debug\App.baml
