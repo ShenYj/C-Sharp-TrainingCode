@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox练习", "ListBox练
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemControl练习", "ItemControl练习\ItemControl练习.csproj", "{6852EDA9-204F-4337-979F-B87F2BF05CA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativeSource使用", "RelativeSource使用\RelativeSource使用.csproj", "{CD5DA107-3CF5-4B9F-8483-50CB2974FE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.csproj", "{D14B5E6F-A071-4147-A280-B9163D690432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox自定义模板练习", "ListBox自定义模板练习\ListBox自定义模板练习.csproj", "{D59AAC63-93CF-4920-80D9-98C035A7E35E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{6852EDA9-204F-4337-979F-B87F2BF05CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6852EDA9-204F-4337-979F-B87F2BF05CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6852EDA9-204F-4337-979F-B87F2BF05CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5DA107-3CF5-4B9F-8483-50CB2974FE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5DA107-3CF5-4B9F-8483-50CB2974FE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5DA107-3CF5-4B9F-8483-50CB2974FE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5DA107-3CF5-4B9F-8483-50CB2974FE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14B5E6F-A071-4147-A280-B9163D690432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14B5E6F-A071-4147-A280-B9163D690432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14B5E6F-A071-4147-A280-B9163D690432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14B5E6F-A071-4147-A280-B9163D690432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59AAC63-93CF-4920-80D9-98C035A7E35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59AAC63-93CF-4920-80D9-98C035A7E35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59AAC63-93CF-4920-80D9-98C035A7E35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59AAC63-93CF-4920-80D9-98C035A7E35E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
